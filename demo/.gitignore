@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+
+$RECYCLE.BIN/
+System Volume Information/
